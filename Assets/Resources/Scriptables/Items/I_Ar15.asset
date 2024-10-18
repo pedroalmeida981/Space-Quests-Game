@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57dd1fb854da4b48aa24e28d08fcfc1, type: 3}
+  m_Name: I_Ar15
+  m_EditorClassIdentifier: 
+  itemName: Ar15
+  itemDesc: 
+  itemIcon: {fileID: 21300000, guid: 2ad1c5f6474da624ba337f3e8e929dfa, type: 3}
+  quantity: 1
+  quantityMax: 1
+  stackable: 0
+  stackOnGround: 0
+  itemType: 3
+  prf_Ground: {fileID: 7998659756603433684, guid: 5ae0a619d46c09b4f8fee33fa7ec439d, type: 3}
+  prf_Arm: {fileID: 8143080514581388662, guid: 84e4858cba12f6c4fa5674c7823b4473, type: 3}
