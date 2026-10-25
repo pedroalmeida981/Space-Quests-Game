@@ -1,0 +1,34 @@
+# Unity-generated content (existing tracked files require separate cleanup)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+
+# IDE/editor generated files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Machine-specific files
+.DS_Store
+Thumbs.db
+
+# Keep Unity Assets, Packages, ProjectSettings, .meta files and licences tracked.
+# A .gitignore prevents NEW generated files from being added;
+# it does not remove generated files already present in Git history.
