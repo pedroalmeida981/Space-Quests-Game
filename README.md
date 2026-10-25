@@ -53,7 +53,7 @@ A current build has not been validated. Unity upgrades can introduce compatibili
 
 Try movement collisions, jumping near ledges, inventory overflow, stacking limits, drag/drop on incompatible slots, item duplication/loss, enemy detection near range boundaries, scene transitions and input focus while inventory is open. Record expected/actual results and evidence.
 
-See [Interview and QA notes](docs/INTERVIEW_PREP.md). They are test design ideas, **not claims of executed tests**.
+These are test design ideas, **not claims of executed tests**.
 
 ## Portfolio context
 
